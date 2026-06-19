@@ -50,6 +50,9 @@ node_modules/
 # Build output
 dist/
 
+# Public assets (photos, manifest)
+public/
+
 # macOS
 .DS_Store
 **/.DS_Store
